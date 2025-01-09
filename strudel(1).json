@@ -1,0 +1,84 @@
+{
+    "_base": "https://raw.githubusercontent.com/mot4i/sample_pack/main/",
+    
+    "eth_st":
+    [
+        "mot4i_ethnic_st/ethnic01(C down to F).wav",
+        "mot4i_ethnic_st/ethnic02(D up to D#).wav",
+        "mot4i_ethnic_st/ethnic03(F down to E).wav",
+        "mot4i_ethnic_st/ethnic04(F to F# to F).wav",
+        "mot4i_ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
+    ],
+    "sit":
+    [
+         "mot4i_sitar/sitar01(A)_Down_Strum.wav",
+         "mot4i_sitar/sitar02(A)Roll_In.wav",
+         "mot4i_sitar/sitar03(A).wav",
+        "mot4i_sitar/sitar04(C)Roll_In.wav",
+        "mot4i_sitar/sitar05(C).wav",
+        "mot4i_sitar/sitar06(D)Down_Strum.wav",
+        "mot4i_sitar/sitar07(D)Roll_In.wav",
+        "mot4i_sitar/sitar08(D).wav",
+        "mot4i_sitar/sitar09(E).wav",
+        "mot4i_sitar/sitar10(F)Down_Strum.wav",
+        "mot4i_sitar/sitar11(F)Roll_In.wav",
+        "mot4i_sitar/sitar12(F).wav",
+        "mot4i_sitar/sitar13(G)Roll_In.wav",
+        "mot4i_sitar/sitar14_(G).wav",
+        "mot4i_sitar/sitar15(E)Roll_In.wav"
+     ],
+    
+    "gl":
+    [
+        "mot4i_glitches/Glitch01.wav",
+        "mot4i_glitches/Glitch02.wav",
+        "mot4i_glitches/Glitch03.wav",
+        "mot4i_glitches/Glitch04.wav",
+        "mot4i_glitches/Glitch05.wav",
+        "mot4i_glitches/Glitch06.wav",
+        "mot4i_glitches/Glitch07.wav",
+        "mot4i_glitches/Glitch08.wav",
+        "mot4i_glitches/Glitch09.wav",
+        "mot4i_glitches/Glitch10.wav",
+        "mot4i_glitches/Glitch11.wav"
+    ],
+    "st": [
+      "mot4i_st/C_StringTexture.wav",
+      "mot4i_st/C_StringTexture01.wav",
+      "mot4i_st/Cm7_StringTexture.wav",
+      "mot4i_st/D_StringTexture.wav",
+      "mot4i_st/D9_StringTexture.wav",
+      "mot4i_st/F_StringTexture03.wav",
+      "mot4i_st/F#m7_StringTexture.wav",
+      "mot4i_st/Ab11_StringTexture01.wav",
+      "mot4i_st/Ab13_StringTexture02.wav"
+    ],
+    "mot4i_cp": [
+        "mot4i_cl/clap01.wav",
+        "mot4i_cl/clap02.wav",
+        "mot4i_cl/clap03.wav"
+    ],
+    "mot4i_bd": [
+        "mot4i_k/kick01.wav",
+        "mot4i_k/kick02.wav",
+        "mot4i_k/kick03.wav",
+        "mot4i_k/kick04.wav"
+    ],
+
+        "mot4i_oh": [
+        "mot4i_oh/hihat_oh01.wav",
+        "mot4i_oh/hihat_oh02.wav"
+    ],
+
+        "mot4i_ch": [
+        "mot4i_hh/hihat01.wav",
+        "mot4i_hh/hihat02.wav"
+    ],
+    
+    "mot4i_sd": [
+        "mot4i_sn/snare01.wav",
+        "mot4i_sn/snare02.wav",
+        "mot4i_sn/snare03.wav",
+        "mot4i_sn/snare04.wav"
+    ]
+}
