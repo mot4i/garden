@@ -28,5 +28,10 @@
         "garden_sd/snare02.wav",
         "garden_sd/snare03.wav",
         "garden_sd/snare04.wav"
-    ]
+    ],
+    "garden_lp": [
+"garden_lp/170_loop_adama.wav",
+"garden_lp/170_loop_boro.wav",
+"garden_lp/170_loop_asylum.wav"
+]
 }
