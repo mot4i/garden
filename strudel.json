@@ -28,10 +28,5 @@
         "garden_sd/snare02.wav",
         "garden_sd/snare03.wav",
         "garden_sd/snare04.wav"
-    ],
-      "plpl": [
-    "garden_lp/adama01.wav",
-    "garden_lp/asylum02.wav",
-    "garden_lp/boro03.wav"
-  ]
+    ]
 }
