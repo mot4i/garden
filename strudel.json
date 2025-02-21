@@ -66,9 +66,68 @@
     "garden_fx/fx_vinyl.wav"
     ],
 
-    "garden_st": [
-    "garden_st/Ab11_StringTexture01.wav"
+     "ethnic_st":
+    [
+        "ethnic_st/ethnic01(C down to F).wav",
+        "ethnic_st/ethnic02(D up to D#).wav",
+        "ethnic_st/ethnic03(F down to E).wav",
+        "ethnic_st/ethnic04(F to F# to F).wav",
+        "ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
+    ],
 
+         "bigb": [
+    
+        "bigb/FoldLow-D.wav",
+        "bigb/LowModuRing-D.wav",
+        "bigb/AmpRaze-F#.wav",
+        "bigb/NovSplank-F#.wav",
+        "bigb/FoldLow-A.wav",
+        "bigb/LowModuRing-A.wav",
+        "bigb/NovSplank-B.wav"
+     ] ,
+    
+    "sit": [
+       
+        "sit/sitar04(C)Roll_In.wav",
+        "sit/sitar05(C).wav",
+        "sit/sitar08(D).wav",
+        "sit/sitar06(D)Down_Strum.wav",
+        "sit/sitar07(D)Roll_In.wav",
+        "sit/sitar15(E)Roll_In.wav",
+        "sit/sitar09(E).wav",
+        "sit/sitar10(F)Down_Strum.wav",
+        "sit/sitar11(F)Roll_In.wav",
+        "sit/sitar12(F).wav",
+        "sit/sitar13(G)Roll_In.wav",
+        "sit/sitar14_(G).wav",
+        "sit/sitar01(A)_Down_Strum.wav",
+        "sit/sitar02(A)Roll_In.wav",
+        "sit/sitar03(A).wav"
+    ],
+    
+"gl": [
+    "gl/Glitch01.wav",
+    "gl/Glitch02.wav",
+    "gl/Glitch03.wav",
+    "gl/Glitch04.wav",
+    "gl/Glitch05.wav",
+    "gl/Glitch06.wav",
+    "gl/Glitch07.wav",
+    "gl/Glitch08.wav",
+    "gl/Glitch09.wav",
+    "gl/Glitch10.wav",
+    "gl/Glitch11.wav"
+
+],
+ "st": [
+      "garden_st/C_StringTexture.wav",
+      "garden_st/C_StringTexture01.wav",
+      "garden_st/Cm7_StringTexture.wav",
+      "garden_st/D_StringTexture.wav",
+      "garden_st/D9_StringTexture.wav",
+      "garden_st/F_StringTexture03.wav",
+      "garden_st/F#m7_StringTexture.wav",
+      "garden_st/Ab11_StringTexture01.wav",
+      "garden_st/Ab13_StringTexture02.wav"
     ]
-
 }
