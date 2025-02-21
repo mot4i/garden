@@ -66,20 +66,10 @@
     "garden_fx/fx_vinyl.wav"
     ],
 
-    "st": [
-    "garden_st/Ab11_StringTexture01.wav"
+    "garden_st": [
+    "garden_st/Ab11_StringTexture01.wav",
+    "Ab11": ["garden_st/Ab11_StringTexture01.wav"],
 
     ]
 
-    "adama": ["garden_lp/adama01.wav"],
-    "asylum": ["garden_lp/asylum02.wav"],
-    "boro":["garden_lp/boro03.wav"],
-    "lamb":["garden_lp/lamb04.wav"],
-    "paper":["garden_lp/paper05.wav"],
-    "poli":["garden_lp/poli_mids06.wav"],
-    "ride":["garden_lp/ride07.wav"],
-    "sweat":["garden_lp/sweat08.wav"],
-    "rugged":["garden_lp/rugged09.wav"],
-    "ping":["garden_lp/ping10.wav"],
-    "ninetysix":["garden_lp/ninetysix11.wav"]
 }
