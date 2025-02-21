@@ -56,7 +56,15 @@
         "lp": [
         "garden_lp/adama01.wav",
         "garden_lp/asylum02.wav",
-        "garden_lp/boro03.wav"
+        "garden_lp/boro03.wav",
+      "garde_lp/lamb04.wav",
+      "garden_lp/paper05.wav",
+      "garden_lp/poli_mids06.wav",
+      "garden_lp/ride07.wav",
+      "garden_lp/sweat08.wav",
+      "garden_lp/rugged09.wav",
+      "garden_lp/ping10.wav",
+      "garden_lp/ninetysix11.wav"
     ],
 
 
@@ -129,20 +137,7 @@
       "garden_st/F#m7_StringTexture.wav",
       "garden_st/Ab11_StringTexture01.wav",
       "garden_st/Ab13_StringTexture02.wav"
-    ],
-{
-     "adama": ["lp/adama01.wav"],
-     "asylum": ["lp/asylum02.wav"],
-     "boro":["lp/boro03.wav"],
-      "lamb":["lp/lamb04.wav"],
-      "paper":["lp/paper05.wav"],
-      "poli":["lp/poli_mids06.wav"],
-      "ride":["lp/ride07.wav"],
-      "sweat":["lp/sweat08.wav"],
-      "rugged":["lp/rugged09.wav"],
-      "ping":["lp/ping10.wav"],
-      "ninetysix":["lp/ninetysix11.wav"]
-}
+    ]
 
 }
 
