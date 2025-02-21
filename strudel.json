@@ -61,9 +61,9 @@
 
 
     "fx": [
-    "garden_lp/adama01.wav",
-    "garden_lp/asylum02.wav",
-    "garden_lp/boro03.wav"
+    "garden_fx/fx_noise.wav",
+    "garden_fx/fx_sub.wav",
+    "garden_fx/fx_vinyl.wav"
     ],
 
     "st": [
