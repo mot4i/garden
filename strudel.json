@@ -36,6 +36,10 @@
         "garden_sd/snare03.wav",
         "garden_sd/snare04.wav"
     ],
+        "garden_lt": [
+        "garden_lt/tom01.wav",
+        "garden_lt/tom02.wav"
+    ],
     
         "lp": [
         "garden_lp/adama01.wav",
