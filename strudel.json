@@ -4,7 +4,10 @@
     "garden_cp": [
         "garden_cl/clap01.wav",
         "garden_cl/clap02.wav",
-        "garden_cl/clap03.wav"
+        "garden_cl/clap03.wav",
+        "garden_cl/snap01.wav",
+        "garden_cl/snap02.wav"
+        
     ],
     "garden_bd": [
         "garden_bd/kick01.wav",
