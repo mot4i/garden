@@ -9,6 +9,13 @@
         "garden_cl/snap02.wav"
         
     ],
+
+        "garden_metal": [
+        "garden_metal/metal01.wav",
+        "garden_metal/metal02.wav"
+        
+    ],
+    
     "garden_bd": [
         "garden_bd/kick01.wav",
         "garden_bd/kick02.wav",
