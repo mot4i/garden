@@ -134,6 +134,10 @@
         "garden_st/F#m7_StringTexture.wav",
         "garden_st/Ab11_StringTexture01.wav",
         "garden_st/Ab13_StringTexture02.wav"
+    ],
+
+    "lynch": [
+        "lynch/damn_good_coffee.mp3"
     ]
 
 }
