@@ -137,26 +137,21 @@
         "garden_st/Ab13_StringTexture02.wav"
     ],
 
-    "lynch": [
-        "lynch/damn_good_coffee.mp3"
-    ],
-
-        "matrix": [
-        "matrix/matrix.mp3",
-        "matrix/you-think-that's-air-you're-breathing-now.mp3"
-    ],
-
-            "p5": [
-        "p5/persona5_focus.mp3",
-        "p5/persona5_its_somewhere.mp3"
-
-    ],
-
                 "sunra": [
         "sunra/sunra.mp3"
 
-    ]
+    ],
 
+    "yoda": "vox/wars-not-make-one-great.mp3", 
+    "water": "vox/be_water.mp3",
+    "breathing": "vox/breathing_air.mp3",
+    "matrix": "vox/matrix_everywhere.mp3",
+    "coffee": "vox/damn_good_coffee.mp3",
+    "fight": "vox/lost-my-starboard-engine.mp3",
+    "focus": "vox/persona5_focus.mp3",
+    "somewhere": "vox/persona5_its_somewhere.mp3"
 
 }
+
+
 
