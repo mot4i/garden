@@ -52,6 +52,15 @@
         "garden_lt/tom01.wav",
         "garden_lt/tom02.wav"
     ],
+
+        "gtr_vib": [
+        "mot4i_gtr/vibrato/Am.mp3",
+        "mot4i_gtr/vibrato/Em.mp3",
+        "mot4i_gtr/vibrato/G.mp3",
+        "mot4i_gtr/vibrato/Fm7.mp3",   
+        "mot4i_gtr/vibrato/A2.mp3",
+        "mot4i_gtr/vibrato/C.mp3"      
+    ],
     
         "lp": [
         "lp/150.wav",
