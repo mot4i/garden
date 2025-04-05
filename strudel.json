@@ -62,6 +62,17 @@
         "mot4i_gtr/vibrato/D#M7.mp3",       
         "mot4i_gtr/vibrato/C.mp3"      
     ],
+
+
+        "gtr_cru": [
+        "mot4i_gtr/crunch/Am.mp3",
+        "mot4i_gtr/crunch/Em.mp3",
+        "mot4i_gtr/crunch/G.mp3",
+        "mot4i_gtr/crunch/Fm7.mp3",   
+        "mot4i_gtr/crunch/A2.mp3",
+        "mot4i_gtr/crunch/D#M7.mp3",       
+        "mot4i_gtr/crunch/C.mp3"      
+    ],
     
         "lp": [
         "lp/150.wav",
