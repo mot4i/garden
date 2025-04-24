@@ -73,6 +73,14 @@
         "mot4i_gtr/crunch/D#M7.mp3",       
         "mot4i_gtr/crunch/C.mp3"      
     ],
+
+            "gtr_gtr": [
+        "mot4i_gtr/gtrgtr/gimmick.mp3",
+        "mot4i_gtr/gtrgtr/F.mp3",
+        "mot4i_gtr/gtrgtr/F#.mp3",
+        "mot4i_gtr/gtrgtr/B.mp3",   
+        "mot4i_gtr/gtrgtr/B#.mp3"      
+    ],
     
         "lp": [
         "lp/150.wav",
