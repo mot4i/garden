@@ -85,19 +85,18 @@
     ],
     
         "lp": [
-        "lp/150.wav",
-        "lp/adama01.wav",
-        "lp/asylum02.wav",
-        "lp/boro03.wav",
-        "lp/lamb04.wav",
+        "lp/150.mp3",
+        "lp/adama01.mp3",
+        "lp/asylum02.mp3",
+        "lp/boro03.mp3",
+        "lp/lamb04.mp3",
         "lp/paper05.mp3",
-        "lp/paper05.wav",
-        "lp/poli_mids06.wav",
-        "lp/ride07.wav",
-        "lp/sweat08.wav",
-        "lp/rugged09.wav",
-        "lp/ping10.wav",
-        "lp/ninetysix11.wav"
+        "lp/poli_mids06.mp3",
+        "lp/ride07.mp3",
+        "lp/sweat08.mp3",
+        "lp/rugged09.mp3",
+        "lp/ping10.mp3",
+        "lp/ninetysix11.mp3"
     ],
 
 
