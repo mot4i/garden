@@ -74,12 +74,14 @@
         "mot4i_gtr/crunch/C.mp3"      
     ],
 
-            "gtr_gtr": [
-        "mot4i_gtr/gtrgtr/gimmick.mp3",
-        "mot4i_gtr/gtrgtr/F.mp3",
-        "mot4i_gtr/gtrgtr/F#.mp3",
-        "mot4i_gtr/gtrgtr/B.mp3",   
-        "mot4i_gtr/gtrgtr/B#.mp3"      
+            "fungi": [
+        "mot4i_gtr/fungi/gim.mp3",
+        "mot4i_gtr/fungi/f.mp3",
+        "mot4i_gtr/fungi/f_down.mp3",
+        "mot4i_gtr/fungi/f#.mp3",
+        "mot4i_gtr/fungi/f#_drone.mp3",
+        "mot4i_gtr/fungi/b.mp3",   
+        "mot4i_gtr/fungi/b#.mp3"      
     ],
     
         "lp": [
