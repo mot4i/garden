@@ -39,7 +39,8 @@
         "garden_hh/hihat01.wav",
         "garden_hh/hihat02.wav",
         "garden_hh/hihat03.wav",
-        "garden_hh/hihat04.wav"
+        "garden_hh/hihat04.wav",
+        "psr-gx76/cymb.mp3"
     ],
     
         "garden_sd": [
@@ -96,14 +97,21 @@
         "lp/sweat08.mp3",
         "lp/rugged09.mp3",
         "lp/ping10.mp3",
-        "lp/ninetysix11.mp3"
+        "lp/ninetysix11.mp3",
+        "psr-gx76/acidDrum .mp3",
+        "psr-gx76/acidDrum4.mp3",
+        "psr-gx76/hiphop.mp3",
+        "psr-gx76/acidDrum3.mp3",
+        "psr-gx76/acidDrum2.mp3"
     ],
 
 
         "fx": [
         "garden_fx/fx_noise.wav",
         "garden_fx/fx_sub.wav",
-        "garden_fx/fx_vinyl.wav"
+        "garden_fx/fx_vinyl.wav",
+        "psr-gx76/vinyl.mp3",
+        "psr-gx76/sirene.mp3"
     ],
 
         "ethnic_st":[
