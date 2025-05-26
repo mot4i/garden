@@ -84,6 +84,10 @@
         "mot4i_gtr/fungi/b.mp3",   
         "mot4i_gtr/fungi/b#.mp3"      
     ],
+
+                "creepy": [
+        "mot4i_gtr/creepy/creepy1.mp3",
+        "mot4i_gtr/creepy/creepy2.mp3"],
     
         "lp": [
         "lp/LOOP-DRUMS-95-Finale.wav",
