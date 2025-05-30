@@ -35,6 +35,15 @@
         "garden_oh/hihat_oh02.wav"
     ],
 
+            "garden_cr": [
+        "garden_cr/Cymbals01.wav"    
+            ],
+
+
+            "garden_sn": [
+        "garden_sn/SnapHigh01.wav"
+    ],
+
         "garden_hh": [
         "garden_hh/hihat01.wav",
         "garden_hh/hihat02.wav",
