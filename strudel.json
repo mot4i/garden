@@ -63,27 +63,6 @@
         "garden_lt/tom02.wav"
     ],
 
-        "gtr_vib": [
-        "mot4i_gtr/vibrato/Am.mp3",
-        "mot4i_gtr/vibrato/Em.mp3",
-        "mot4i_gtr/vibrato/G.mp3",
-        "mot4i_gtr/vibrato/Fm7.mp3",   
-        "mot4i_gtr/vibrato/A2.mp3",
-        "mot4i_gtr/vibrato/D#M7.mp3",       
-        "mot4i_gtr/vibrato/C.mp3"      
-    ],
-
-
-        "gtr_cru": [
-        "mot4i_gtr/crunch/Am.mp3",
-        "mot4i_gtr/crunch/Em.mp3",
-        "mot4i_gtr/crunch/G.mp3",
-        "mot4i_gtr/crunch/Fm7.mp3",   
-        "mot4i_gtr/crunch/A2.mp3",
-        "mot4i_gtr/crunch/D#M7.mp3",       
-        "mot4i_gtr/crunch/C.mp3"      
-    ],
-
             "fungi": [
         "mot4i_gtr/fungi/gim.mp3",
         "mot4i_gtr/fungi/f.mp3",
@@ -98,27 +77,6 @@
         "mot4i_gtr/creepy/creepy1.mp3",
         "mot4i_gtr/creepy/creepy2.mp3"],
     
-        "lp": [
-        "lp/LOOP-DRUMS-95-Finale.wav",
-        "lp/150.mp3",
-        "lp/adama01.mp3",
-        "lp/asylum02.mp3",
-        "lp/boro03.mp3",
-        "lp/lamb04.mp3",
-        "lp/paper05.mp3",
-        "lp/poli_mids06.mp3",
-        "lp/ride07.mp3",
-        "lp/sweat08.mp3",
-        "lp/rugged09.mp3",
-        "lp/ping10.mp3",
-        "lp/ninetysix11.mp3",
-        "psr-gx76/acidDrum .mp3",
-        "psr-gx76/acidDrum4.mp3",
-        "psr-gx76/hiphop.mp3",
-        "psr-gx76/acidDrum3.mp3",
-        "psr-gx76/acidDrum2.mp3"
-    ],
-
 
         "fx": [
         "garden_fx/fx_noise.wav",
