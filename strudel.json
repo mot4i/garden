@@ -16,10 +16,11 @@
         "garden_sd": ["garden_sd/snare01.wav", "garden_sd/snare02.wav", "garden_sd/snare03.wav", "garden_sd/snare04.wav"],
         "garden_lt": ["garden_lt/tom01.wav", "garden_lt/tom02.wav", "garden_lt/tom03.wav", "garden_lt/tom04.wav", "garden_lt/tom05.wav", "garden_lt/tom06.wav", "garden_lt/tom07.wav"],
         "fx": ["garden_fx/fx_noise.wav", "garden_fx/fx_sub.wav", "garden_fx/fx_vinyl.wav", "psr-gx76/vinyl.mp3", "psr-gx76/sirene.mp3"],
-
-
-
-
+        "st": ["garden_st/C_StringTexture.wav", "garden_st/C_StringTexture01.wav", "garden_st/D_StringTexture.wav", "garden_st/F#m7_StringTexture.wav"],
+        "gl": ["gl/Glitch01.wav", "gl/Glitch02.wav", "gl/Glitch03.wav", "gl/Glitch04.wav"],
+        "yoda": "vox/wars-not-make-one-great.mp3", 
+        "fight": "vox/lost-my-starboard-engine.mp3",
+        "roar": "vox/godzilla1.wav",
 
 
             "fungi": [
@@ -34,25 +35,9 @@
 
                 "creepy": [
         "mot4i_gtr/creepy/creepy1.mp3",
-        "mot4i_gtr/creepy/creepy2.mp3"],
+        "mot4i_gtr/creepy/creepy2.mp3"]
     
 
-    "gl": [
-        "gl/Glitch01.wav",
-        "gl/Glitch02.wav",
-        "gl/Glitch03.wav",
-        "gl/Glitch04.wav"],
-    
-        "st": [
-        "garden_st/C_StringTexture.wav",
-        "garden_st/C_StringTexture01.wav",
-        "garden_st/D_StringTexture.wav",
-        "garden_st/F#m7_StringTexture.wav"
-    ],
-
-    "yoda": "vox/wars-not-make-one-great.mp3", 
-    "fight": "vox/lost-my-starboard-engine.mp3",
-    "roar": "vox/godzilla1.wav"
 
 }
 
