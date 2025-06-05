@@ -35,10 +35,7 @@
         "garden_oh/hihat_oh02.wav"
     ],
 
-            "garden_cr": [
-        "garden_cr/Cymbals01.wav",
-        "psr-gx76/cymb.mp3"
-            ],
+            "garden_cr": ["garden_cr/Cymbals01.wav","garden_cr/Cymbals02.wav","garden_cr/Cymbals03.wav","psr-gx76/cymb.mp3"],
 
 
             "garden_sn": [
