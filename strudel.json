@@ -1,20 +1,8 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/garden/main/",
 
-        "garden_cp": [
-        "garden_cl/clap01.wav",
-        "garden_cl/clap02.wav",
-        "garden_cl/clap03.wav",
-        "garden_cl/snap01.wav",
-        "garden_cl/snap02.wav"
-        
-    ],
-
-        "garden_metal": [
-        "garden_metal/metal01.wav",
-        "garden_metal/metal02.wav"
-        
-    ],
+        "garden_cp": ["garden_cl/clap01.wav", "garden_cl/clap02.wav", "garden_cl/clap03.wav", "garden_cl/snap01.wav", "garden_cl/snap02.wav" ],
+        "garden_metal": ["garden_metal/metal01.wav","garden_metal/metal02.wav"],
     
         "garden_bd": [
         "garden_bd/kick01.wav",
@@ -86,41 +74,7 @@
         "psr-gx76/sirene.mp3"
     ],
 
-        "ethnic_st":[
-        "ethnic_st/ethnic01(C down to F).wav",
-        "ethnic_st/ethnic02(D up to D#).wav",
-        "ethnic_st/ethnic03(F down to E).wav",
-        "ethnic_st/ethnic04(F to F# to F).wav",
-        "ethnic_st/ethnic05(F Arabic walkdown from A#).wav"
-    ],
 
-        "bigb":[
-        "bigb/FoldLow-D.wav",
-        "bigb/LowModuRing-D.wav",
-        "bigb/AmpRaze-F#.wav",
-        "bigb/NovSplank-F#.wav",
-        "bigb/FoldLow-A.wav",
-        "bigb/LowModuRing-A.wav",
-        "bigb/NovSplank-B.wav"
-     ] ,
-    
-        "sit": [
-        "sit/sitar04(C)Roll_In.wav",
-        "sit/sitar05(C).wav",
-        "sit/sitar08(D).wav",
-        "sit/sitar06(D)Down_Strum.wav",
-        "sit/sitar07(D)Roll_In.wav",
-        "sit/sitar15(E)Roll_In.wav",
-        "sit/sitar09(E).wav",
-        "sit/sitar10(F)Down_Strum.wav",
-        "sit/sitar11(F)Roll_In.wav",
-        "sit/sitar12(F).wav",
-        "sit/sitar13(G)Roll_In.wav",
-        "sit/sitar14_(G).wav",
-        "sit/sitar01(A)_Down_Strum.wav",
-        "sit/sitar02(A)Roll_In.wav",
-        "sit/sitar03(A).wav"
-    ],
     
     "gl": [
         "gl/Glitch01.wav",
