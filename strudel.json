@@ -154,12 +154,7 @@
     ],
 
     "yoda": "vox/wars-not-make-one-great.mp3", 
-    "breathing": "vox/breathing_air.mp3",
-    "matrix": "vox/matrix_everywhere.mp3",
     "fight": "vox/lost-my-starboard-engine.mp3",
-    "focus": "vox/persona5_focus.mp3",
-    "somewhere": "vox/persona5_its_somewhere.mp3",
-    "mot4i_bass": "bass/bass2.mp3",
     "roar": "vox/godzilla1.wav"
 
 }
