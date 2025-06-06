@@ -3,4 +3,6 @@ It features a rich palette of punchy drum single shots, organic textures, glitch
 
 This pack will be regularly updated with new samples to keep the sonic garden fresh and inspiring.
 
+This sample pack is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to use, share, and adapt the samples, as long as you give appropriate credit.
+
 mot4i
