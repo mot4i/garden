@@ -10,5 +10,5 @@ You are free to use, share, and adapt the samples, as long as you credit the sou
 
 ☕ [Buy me a coffee](https://ko-fi.com/mot4i) if this pack brings joy to your code. ❤️❤️
 
-by mot4i
+mot4i
 
