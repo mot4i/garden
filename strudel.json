@@ -1,9 +1,7 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/garden/main/",
 
-        "garden_cp": ["garden_cl/clap01.wav", "garden_cl/clap02.wav", "garden_cl/clap03.wav", "garden_cl/snap01.wav", "garden_cl/snap02.wav" ],
-        "met": ["garden_metal/metal01.wav","garden_metal/metal02.wav"],
-    
+        "garden_cp": ["garden_cl/clap01.wav", "garden_cl/clap02.wav", "garden_cl/clap03.wav", "garden_cl/snap01.wav", "garden_cl/snap02.wav" ],    
         "garden_bd": ["garden_bd/kick01.wav", "garden_bd/kick02.wav", "garden_bd/kick03.wav", "garden_bd/kick04.wav", "garden_bd/kick05.wav", "garden_bd/kick06.wav", "garden_bd/kick07.wav", "garden_bd/kick08.wav", "garden_bd/kick09.wav", "garden_bd/kick10.wav"],
 
         "garden_oh": ["garden_oh/hihat_oh01.wav","garden_oh/hihat_oh02.wav"],
@@ -15,11 +13,13 @@
     
         "garden_sd": ["garden_sd/snare01.wav", "garden_sd/snare02.wav", "garden_sd/snare03.wav", "garden_sd/snare04.wav"],
         "garden_lt": ["garden_lt/tom01.wav", "garden_lt/tom02.wav", "garden_lt/tom03.wav", "garden_lt/tom04.wav", "garden_lt/tom05.wav", "garden_lt/tom06.wav", "garden_lt/tom07.wav"],
+    
         "fx": ["garden_fx/fx_noise.wav", "garden_fx/fx_sub.wav", "garden_fx/fx_vinyl.wav", "psr-gx76/vinyl.mp3", "psr-gx76/sirene.mp3"],
         "st": ["garden_st/C_StringTexture.wav", "garden_st/C_StringTexture01.wav", "garden_st/D_StringTexture.wav", "garden_st/F#m7_StringTexture.wav"],
-        "lp": ["psr-gx76/acidDrum.mp3", "psr-gx76/acidDrum2.mp3", "psr-gx76/acidDrum3.mp3", "psr-gx76/acidDrum4.mp3"]
+        "lp": ["psr-gx76/acidDrum.mp3", "psr-gx76/acidDrum2.mp3", "psr-gx76/acidDrum3.mp3", "psr-gx76/acidDrum4.mp3"],
+        "met": ["garden_metal/metal01.wav","garden_metal/metal02.wav"]
 
-    
+
 
 }
 
