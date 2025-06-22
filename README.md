@@ -5,7 +5,6 @@ You'll find a rich palette of punchy drums, and nuanced tones, ideal for improvi
 
 This sonic garden will continue to grow, regular updates will keep it fresh and inspiring.
 
-🎧 License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 You are free to use, share, and adapt the samples, as long as you credit the source.
 
 ☕ [Buy me a coffee](https://ko-fi.com/mot4i) if this pack brings joy to your code. ❤️❤️
