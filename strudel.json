@@ -10,6 +10,7 @@
         "garden_sn": ["garden_sn/SnapHigh01.wav", "garden_sn/SnapHigh02.wav"],
 
         "garden_hh": ["garden_hh/hihat01.wav", "garden_hh/hihat02.wav", "garden_hh/hihat03.wav", "garden_hh/hihat04.wav"],
+        "garden_rim": ["garden_rim/rim.wav", "garden_rim/rim2.wav", "garden_rim/rim3.wav", "garden_rim/rim4.wav", "garden_rim/rim5.wav"],
     
         "garden_sd": ["garden_sd/snare01.wav", "garden_sd/snare02.wav", "garden_sd/snare03.wav", "garden_sd/snare04.wav"],
         "garden_lt": ["garden_lt/tom01.wav", "garden_lt/tom02.wav", "garden_lt/tom03.wav", "garden_lt/tom04.wav", "garden_lt/tom05.wav", "garden_lt/tom06.wav", "garden_lt/tom07.wav"],
