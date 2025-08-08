@@ -1,7 +1,7 @@
 {
     "_base": "https://raw.githubusercontent.com/mot4i/garden/main/",
 
-        "garden_cp": ["garden_cl/clap01.wav", "garden_cl/clap02.wav", "garden_cl/clap03.wav", "garden_cl/snap01.wav", "garden_cl/snap02.wav" ],    
+        "garden_cp": ["garden_cp/clap01.wav", "garden_cp/clap02.wav", "garden_cp/clap03.wav", "garden_cp/snap01.wav", "garden_cp/snap02.wav" ],    
         "garden_bd": ["garden_bd/kick01.wav", "garden_bd/kick02.wav", "garden_bd/kick03.wav", "garden_bd/kick04.wav", "garden_bd/kick05.wav", "garden_bd/kick06.wav", "garden_bd/kick07.wav", "garden_bd/kick08.wav", "garden_bd/kick09.wav", "garden_bd/kick10.wav"],
 
         "garden_oh": ["garden_oh/hihat_oh01.wav","garden_oh/hihat_oh02.wav"],
