@@ -18,7 +18,7 @@
         "fx": ["fx/fx_noise.wav", "fx/fx_sub.wav", "fx/fx_vinyl.wav", "psr-gx76/vinyl.mp3", "psr-gx76/sirene.mp3"],
         "st": ["st/C_StringTexture.wav", "st/C_StringTexture01.wav", "st/D_StringTexture.wav", "st/F#m7_StringTexture.wav"],
         "loop": ["psr-gx76/acidDrum.mp3", "psr-gx76/acidDrum2.mp3", "psr-gx76/acidDrum3.mp3", "psr-gx76/acidDrum4.mp3"],
-        "met": ["metal/metal01.wav","metal/metal02.wav"]
+        "metal": ["metal/metal01.wav","metal/metal02.wav"]
 
 
 
