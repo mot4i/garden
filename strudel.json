@@ -16,7 +16,7 @@
         "garden_lt": ["garden_lt/tom01.wav", "garden_lt/tom02.wav", "garden_lt/tom03.wav", "garden_lt/tom04.wav", "garden_lt/tom05.wav", "garden_lt/tom06.wav", "garden_lt/tom07.wav"],
     
         "fx": ["fx/fx_noise.wav", "fx/fx_sub.wav", "fx/fx_vinyl.wav", "psr-gx76/vinyl.mp3", "psr-gx76/sirene.mp3"],
-        "st": ["st/C_StringTexture.wav", "st/C_StringTexture01.wav", "st/D_StringTexture.wav", "st/F#m7_StringTexture.wav"],
+        "st": ["st/C_texture.wav", "st/D_texture.wav", "st/Fm_texture.wav", "st/F#m7_texture.wav", "st/F7_texture.wav", "st/Bb7_texture.wav"],
         "loop": ["psr-gx76/acidDrum.mp3", "psr-gx76/acidDrum2.mp3", "psr-gx76/acidDrum3.mp3", "psr-gx76/acidDrum4.mp3"],
         "metal": ["metal/metal01.wav","metal/metal02.wav"]
 
